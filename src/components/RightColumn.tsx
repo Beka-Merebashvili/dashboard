@@ -1,14 +1,14 @@
  
 import SalesItem from "./SalesItem";
-// import WebAnalytics from "./WebAnalytics";
-// import ScoreList from "./ScoreList";
+import WebAnalytics from "./WebAnalytics";
+import ScoreList from "./ScoreList";
 
 const RightColumn = () => {
   return (
     <div className="w-full p-2">
       <SalesItem />
-      {/* <WebAnalytics />
-      <ScoreList /> */}
+      <WebAnalytics />
+      <ScoreList />
     </div>
   );
 };
