@@ -6,7 +6,7 @@
 ### Usage
 
 1. Start the development server: `npm run dev`
-2. Open your web browser and go to: `http://localhost:3000`
+2. Open your web browser and go to: `http://localhost:5173`
 
 ## Folder Structure
 
